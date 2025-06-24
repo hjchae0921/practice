@@ -1,1 +1,2 @@
-print('Github 업로드 테스트 파일!')
+print("Github")
+print("Bye")
